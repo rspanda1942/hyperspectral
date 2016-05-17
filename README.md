@@ -1,7 +1,6 @@
-# hyperspectral
+# hyperspectral image classification
 
-
-Hierarchical Feature Learning With Dropout K-Means for Hyperspectral Image Classification
+Fan Zhang, Bo Du, Liangpei Zhang, Lefei Zhang, Hierarchical feature learning with dropout k-means for hyperspectral image classification, Neurocomputing, Volume 187, 26 April 2016, Pages 75-82,
 
 
 1. install libsvm
